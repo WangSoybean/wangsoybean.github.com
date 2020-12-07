@@ -5,15 +5,14 @@
     <link>http://soybean.github.io/post/</link>
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 07 Dec 2020 19:24:04 +0800</lastBuildDate><atom:link href="http://soybean.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://soybean.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Blog</title>
-      <link>http://soybean.github.io/post/my-first-blog/</link>
-      <pubDate>Mon, 07 Dec 2020 19:24:04 +0800</pubDate>
+      <title></title>
+      <link>http://soybean.github.io/post/20201207/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://soybean.github.io/post/my-first-blog/</guid>
-      <description></description>
+      <guid>http://soybean.github.io/post/20201207/</guid>
+      <description>[TOC] 重要库分析结果： 4-13批 第4,5,6,7,8,9,10,11,12,13批检测样本数41110,涵盖1455个基因; 发生InDel类型编</description>
     </item>
     
   </channel>
