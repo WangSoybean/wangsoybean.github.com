@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://soybean.github.io/categories/</loc>
+    <lastmod>2020-12-11T15:46:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://soybean.github.io/tags/comparative-genomics/</loc>
+    <lastmod>2020-12-11T15:46:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://soybean.github.io/</loc>
     <lastmod>2020-12-11T15:46:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -16,6 +30,13 @@
   </url>
   
   <url>
+    <loc>http://soybean.github.io/tags/</loc>
+    <lastmod>2020-12-11T15:46:55+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://soybean.github.io/post/20201211-1/</loc>
     <lastmod>2020-12-11T15:46:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,8 +44,8 @@
   </url>
   
   <url>
-    <loc>http://soybean.github.io/categories/</loc>
-    <lastmod>2020-12-11T15:21:15+08:00</lastmod>
+    <loc>http://soybean.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2020-12-11T15:46:55+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -44,20 +65,6 @@
   </url>
   
   <url>
-    <loc>http://soybean.github.io/tags/</loc>
-    <lastmod>2020-12-11T15:21:15+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://soybean.github.io/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2020-12-11T15:21:15+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://soybean.github.io/tags/geneediting/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -67,6 +74,34 @@
   <url>
     <loc>http://soybean.github.io/post/20201207/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://soybean.github.io/post/20201214/</loc>
+    <lastmod>2020-12-08T08:04:27+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://soybean.github.io/categories/%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2020-12-08T08:04:27+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://soybean.github.io/tags/%E5%8D%8E%E5%A4%A7/</loc>
+    <lastmod>2020-12-08T08:04:27+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://soybean.github.io/tags/%E5%8D%8E%E6%99%BA/</loc>
+    <lastmod>2020-12-08T08:04:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
