@@ -17,11 +17,20 @@
     </item>
     
     <item>
-      <title>会议记录</title>
-      <link>http://soybean.github.io/categories/%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95/</link>
+      <title>meeting</title>
+      <link>http://soybean.github.io/categories/meeting/</link>
       <pubDate>Tue, 08 Dec 2020 08:04:27 +0800</pubDate>
       
-      <guid>http://soybean.github.io/categories/%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95/</guid>
+      <guid>http://soybean.github.io/categories/meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>测试</title>
+      <link>http://soybean.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Tue, 08 Dec 2020 08:04:27 +0800</pubDate>
+      
+      <guid>http://soybean.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
       <description></description>
     </item>
     
