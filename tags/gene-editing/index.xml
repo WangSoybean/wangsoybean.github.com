@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gene Editing on Even - A super concise theme for Hugo</title>
+    <title>gene editing on Even - A super concise theme for Hugo</title>
     <link>http://soybean.github.io/tags/gene-editing/</link>
-    <description>Recent content in Gene Editing on Even - A super concise theme for Hugo</description>
+    <description>Recent content in gene editing on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Dec 2020 22:40:41 +0800</lastBuildDate><atom:link href="http://soybean.github.io/tags/gene-editing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 14:39:28 +0800</lastBuildDate><atom:link href="http://soybean.github.io/tags/gene-editing/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>编辑材料分析结果</title>
+      <title>新版核心库</title>
+      <link>http://soybean.github.io/post/20201216-%E6%96%B0%E5%A2%9E%E6%A0%B8%E5%BF%83%E5%BA%93/</link>
+      <pubDate>Wed, 16 Dec 2020 14:39:28 +0800</pubDate>
+      
+      <guid>http://soybean.github.io/post/20201216-%E6%96%B0%E5%A2%9E%E6%A0%B8%E5%BF%83%E5%BA%93/</guid>
+      <description>新版核心库 新找的关联代谢物的基因，加上之前的核心库中未拿到种质的基因，共计669个基因，组成新版核心库 1 2 /Users/soybean/so</description>
+    </item>
+    
+    <item>
+      <title>基因编辑工厂-编辑材料分析报告</title>
       <link>http://soybean.github.io/post/20201207/</link>
-      <pubDate>Mon, 07 Dec 2020 22:40:41 +0800</pubDate>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>http://soybean.github.io/post/20201207/</guid>
-      <description>目录 [TOC] 重要库分析结果： 4-13批 第4,5,6,7,8,9,10,11,12,13批检测样本数41110,涵盖1455个基因; 发生InDel类</description>
+      <description>[TOC] 重要库分析结果 T1代4-13批 编辑情况 第4，5，6，7，8，9，10，11，12，13批检测样本数30366，涵盖1493个基因； 发生In</description>
     </item>
     
   </channel>
